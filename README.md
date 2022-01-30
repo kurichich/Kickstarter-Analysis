@@ -1,4 +1,8 @@
 # Kickstarter-Analysis
 An analysis of kickstarter campaigns.
-An analysis of kickstarter campaigns to identify trends.
-![Parent Category Outcomes](C:\Users\kuric\OneDrive\Documents\Education\Data Analytics Bootcamp\Module 1 Excel\Crowdfunding Analysis)
+#
+# Overview of Project
+This project will review survey results to identify trends from crowdfunding as a way to produce a theatrical performance.
+#
+#Purpose
+
